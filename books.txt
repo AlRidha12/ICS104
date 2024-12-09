@@ -1,0 +1,6 @@
+20001 PHYS101 Mahdi Omar 2018 Yes
+20003 Math101 Ali Muhammad 2018 Yes
+20004 Math102 Ali Khan 2016 Yes
+20006 Ics108 Shahzad Khan 2022 Yes
+
+
